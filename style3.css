@@ -168,6 +168,8 @@ background: #666;
  right: 20px;
 }
 .footer{
+  padding-top:30px;
+  padding-bottom:30px;
   background-color: black;
   color: #f6f6f6;
   border-top: 2px solid black;
@@ -197,7 +199,7 @@ background: #666;
   color: var(--main-color);
 }
 .footer-box h3{
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   font-weight: 400;
   margin-bottom: 1rem;
 }
