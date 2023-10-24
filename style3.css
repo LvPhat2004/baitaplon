@@ -179,6 +179,7 @@ background: #666;
   display: flex;
   justify-content: space-between;
   gap: 1rem;
+  padding-top: 30px;
 }
 .footer-container .logo{
   margin-bottom: 1rem;
